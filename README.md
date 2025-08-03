@@ -44,12 +44,12 @@ Masih SMP tapi udah nekat ngoding dari sekarang! Mulai dari PHP, JavaScript, Lin
 
 ---
 
-## 📫 Kontak?
-Lo bisa buka web gue buat lihat-lihat, atau DM-an via GitHub aja nanti gue respon kalo sempet ✌️
+## 📱 Sosial Media
+- TikTok: [@yanzzshin.official](https://www.tiktok.com/@yanzzshin.official)
+- GitHub: [github.com/yanzzshin](https://github.com/yanzzshin)
+- Selebihnya ada di web
 
 ---
-
-> Masih SMP, tapi mimpi gue gede. Coding sekarang, biar ntar bisa kerja yang ngodingin orang wkwkwk.
 
 🔑 **Login Demo Credentials:**  
 Username: `yanzzshin`  
